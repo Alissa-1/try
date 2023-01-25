@@ -1,0 +1,9 @@
+Thumbs.db*
+.DS_Store*
+node_modules
+.idea
+target
+*.iml
+# SQL Server files
+*.mdf
+*.ldf
